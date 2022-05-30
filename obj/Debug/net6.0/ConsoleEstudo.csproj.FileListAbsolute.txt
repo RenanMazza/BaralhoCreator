@@ -1,0 +1,15 @@
+/Users/julianoramos/Study/ConsoleEstudo/bin/Debug/net6.0/ConsoleEstudo
+/Users/julianoramos/Study/ConsoleEstudo/bin/Debug/net6.0/ConsoleEstudo.deps.json
+/Users/julianoramos/Study/ConsoleEstudo/bin/Debug/net6.0/ConsoleEstudo.runtimeconfig.json
+/Users/julianoramos/Study/ConsoleEstudo/bin/Debug/net6.0/ConsoleEstudo.dll
+/Users/julianoramos/Study/ConsoleEstudo/bin/Debug/net6.0/ref/ConsoleEstudo.dll
+/Users/julianoramos/Study/ConsoleEstudo/bin/Debug/net6.0/ConsoleEstudo.pdb
+/Users/julianoramos/Study/ConsoleEstudo/obj/Debug/net6.0/ConsoleEstudo.csproj.AssemblyReference.cache
+/Users/julianoramos/Study/ConsoleEstudo/obj/Debug/net6.0/ConsoleEstudo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/julianoramos/Study/ConsoleEstudo/obj/Debug/net6.0/ConsoleEstudo.AssemblyInfoInputs.cache
+/Users/julianoramos/Study/ConsoleEstudo/obj/Debug/net6.0/ConsoleEstudo.AssemblyInfo.cs
+/Users/julianoramos/Study/ConsoleEstudo/obj/Debug/net6.0/ConsoleEstudo.csproj.CoreCompileInputs.cache
+/Users/julianoramos/Study/ConsoleEstudo/obj/Debug/net6.0/ConsoleEstudo.dll
+/Users/julianoramos/Study/ConsoleEstudo/obj/Debug/net6.0/ref/ConsoleEstudo.dll
+/Users/julianoramos/Study/ConsoleEstudo/obj/Debug/net6.0/ConsoleEstudo.pdb
+/Users/julianoramos/Study/ConsoleEstudo/obj/Debug/net6.0/ConsoleEstudo.genruntimeconfig.cache
